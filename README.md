@@ -1,4 +1,4 @@
 # CDN
 
-butterfly //css js img
-banner.jpg //
+#butterfly //css js img
+#banner.jpg //
